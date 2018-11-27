@@ -5,6 +5,7 @@ Features:
 -Use asynchronous function  
 -Use higher order components  
 -Form validation  
+-launch on a specific port 3306 (instead of 3300 , to avoid mistakes)
 -Cool Design  
 
 Start The Project: 'yarn start' in command line
