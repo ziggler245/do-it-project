@@ -9,9 +9,9 @@ Features:
 
 Start The Project: 'yarn start' in command line
 
-Google creds from Firebase check
-Email: doitodessa2018
-Password: rootroot
+Google creds from Firebase check   
+Email: doitodessa2018    
+Password: rootroot    
 
 https://console.firebase.google.com/u/2/project/do-it-1d53f/authentication/users 
 users registration info
