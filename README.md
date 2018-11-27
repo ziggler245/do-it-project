@@ -1,5 +1,4 @@
 Features:   
-
 -Firebase authorization/registration  
 -Implemented work with Google maps  
 -404 page processing  
