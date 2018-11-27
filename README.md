@@ -8,7 +8,9 @@ Features:
 -Launch on a specific port 3306 (instead of 3300 , to avoid mistakes)   
 -Cool Design  
 
-Start The Project: 'yarn start' in command line
+Start The Project:   
+'yarn install' in command line   
+'yarn start' in command line  
 
 Google creds from Firebase check   
 Email: doitodessa2018    
